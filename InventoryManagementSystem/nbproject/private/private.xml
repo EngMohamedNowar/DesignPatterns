@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/G:/InventoryManagementSystem/src/inventorymanagementsystem/db/ReportDAO.java</file>
+            <file>file:/G:/InventoryManagementSystem/src/inventorymanagementsystem/db/Report.java</file>
+            <file>file:/G:/InventoryManagementSystem/src/inventorymanagementsystem/gui/SupplierForm.java</file>
+            <file>file:/G:/InventoryManagementSystem/src/inventorymanagementsystem/db/OrderDAO.java</file>
+            <file>file:/G:/InventoryManagementSystem/src/inventorymanagementsystem/db/OrderDAOProxy.java</file>
+            <file>file:/G:/InventoryManagementSystem/src/inventorymanagementsystem/gui/OrderForm.java</file>
+            <file>file:/G:/InventoryManagementSystem/src/inventorymanagementsystem/gui/ReportForm.java</file>
+            <file>file:/G:/InventoryManagementSystem/src/inventorymanagementsystem/db/Order.java</file>
+            <file>file:/G:/InventoryManagementSystem/src/inventorymanagementsystem/gui/ProductFactory.java</file>
+            <file>file:/G:/InventoryManagementSystem/src/inventorymanagementsystem/gui/SupplierFactory.java</file>
+            <file>file:/G:/InventoryManagementSystem/src/inventorymanagementsystem/gui/ProductForm.java</file>
+            <file>file:/G:/InventoryManagementSystem/src/inventorymanagementsystem/gui/StockForm.java</file>
+            <file>file:/G:/InventoryManagementSystem/src/inventorymanagementsystem/db/OrderDAOInterface.java</file>
+            <file>file:/G:/InventoryManagementSystem/src/inventorymanagementsystem/MainForm.java</file>
+            <file>file:/G:/InventoryManagementSystem/src/inventorymanagementsystem/InventoryManagementSystem.java</file>
+        </group>
+    </open-files>
+</project-private>
